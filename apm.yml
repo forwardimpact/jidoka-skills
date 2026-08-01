@@ -1,7 +1,7 @@
 name: jidoka-skills
 version: 0.2.0
 description: >-
-  Skills for maintaining the Jidoka instruction architecture — setup, instruction layers, jobs, invariants, and the check suite that stops the line the moment a layer drifts.
+  Skills that maintain the Jidoka instruction architecture: setup, instruction layers, jobs, invariants, and the check suite that stops the line the moment a layer drifts.
 author: forwardimpact
 license: Apache-2.0
 includes: auto
